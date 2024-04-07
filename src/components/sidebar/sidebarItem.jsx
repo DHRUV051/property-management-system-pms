@@ -29,13 +29,14 @@ const navigation = () => {
       subject: 'Property',
       action: 'read'
     },
-    {
-      title: 'Property Allocate',
-      icon: 'mdi:location',
-      path: '/property-allocate',
-      subject: 'Property Allocate',
-      action: 'read'
-    },
+
+    // {
+    //   title: 'Property Allocate',
+    //   icon: 'mdi:location',
+    //   path: '/property-allocate',
+    //   subject: 'Property Allocate',
+    //   action: 'read'
+    // },
     {
       title: 'Owner',
       path: '/owner',
